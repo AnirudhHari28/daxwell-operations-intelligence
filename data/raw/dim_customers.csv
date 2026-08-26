@@ -1,0 +1,46 @@
+customer_id,customer_name,segment,region,state,is_active
+C0001,Fowler Restaurant Group,Food Service,Northeast,PA,True
+C0002,Johnson Catering Co.,Food Service,Northeast,PA,True
+C0003,Hill Health System,Healthcare,Midwest,MI,True
+C0004,Walker Clinic,Healthcare,West,CO,True
+C0005,Doyle Health System,Healthcare,South,NC,True
+C0006,Rhodes Trading Co.,Distributor,South,NC,True
+C0007,Mcclain Regional Hospital,Healthcare,West,WA,True
+C0008,Miller Clinic,Healthcare,Northeast,NY,True
+C0009,Henderson Diner,Food Service,South,NC,True
+C0010,Johnson Distribution,Distributor,Midwest,OH,True
+C0011,Robinson Restaurant Group,Food Service,Midwest,WI,True
+C0012,Wagner Supply Co.,Distributor,Northeast,PA,True
+C0013,Johnson Restaurant Group,Food Service,Northeast,NY,True
+C0014,Gonzalez Regional Hospital,Healthcare,Northeast,NJ,True
+C0015,Santos Supply Co.,Distributor,Northeast,MA,True
+C0016,Gardner Health System,Healthcare,West,AZ,True
+C0017,Robinson Clinic,Healthcare,Northeast,NJ,True
+C0018,Lawrence Regional Hospital,Healthcare,Northeast,NJ,True
+C0019,Pacheco Catering Co.,Food Service,South,FL,True
+C0020,Smith Medical Center,Healthcare,West,WA,True
+C0021,Shaffer Distribution,Distributor,South,NC,True
+C0022,Wolfe Restaurant Group,Food Service,West,WA,True
+C0023,Peterson Wholesale Partners,Distributor,West,WA,True
+C0024,Moore Bistro Group,Food Service,South,NC,True
+C0025,Bernard Bistro Group,Food Service,South,GA,True
+C0026,Rogers Diner,Food Service,Northeast,NJ,True
+C0027,Davis Restaurant Group,Food Service,Northeast,NY,True
+C0028,Davis Medical Center,Healthcare,Northeast,PA,True
+C0029,Abbott Diner,Food Service,West,CO,True
+C0030,Munoz Health System,Healthcare,Midwest,IL,True
+C0031,Roman Bistro Group,Food Service,Northeast,PA,True
+C0032,Blair Trading Co.,Distributor,South,TX,True
+C0033,Herrera Distribution,Distributor,West,CO,True
+C0034,Dudley Regional Hospital,Healthcare,Midwest,MI,True
+C0035,Gray Health System,Healthcare,Midwest,WI,True
+C0036,Arnold Clinic,Healthcare,Midwest,IL,True
+C0037,Calderon Medical Center,Healthcare,South,GA,True
+C0038,Montgomery Catering Co.,Food Service,Midwest,MI,True
+C0039,Hensley Restaurant Group,Food Service,Northeast,PA,True
+C0040,Ray Clinic,Healthcare,West,CA,True
+C0041,Bush Health System,Healthcare,Midwest,IL,True
+C0042,Williams Bistro Group,Food Service,West,WA,True
+C0043,Perez Clinic,Healthcare,Northeast,PA,True
+C0044,Roberts Clinic,Healthcare,Northeast,NJ,True
+C0045,Miller Regional Hospital,Healthcare,South,NC,True

@@ -1,0 +1,13 @@
+supplier_id,supplier_name,country,baseline_lead_time_days,reliability_tier
+S001,Fowler Trading Co.,United States,10,Reliable
+S002,Johnson Group,United States,6,Reliable
+S003,Hill Exports,China,33,Reliable
+S004,Walker Industries,India,31,Reliable
+S005,Doyle Group,China,20,Reliable
+S006,Rhodes Exports,China,29,Reliable
+S007,Mcclain Group,China,31,Reliable
+S008,Miller Manufacturing,United States,5,Reliable
+S009,Henderson Trading Co.,China,30,Reliable
+S010,Johnson Industries,Vietnam,31,Watch
+S011,Robinson Exports,China,34,Watch
+S012,Wagner Trading Co.,Vietnam,31,Reliable
